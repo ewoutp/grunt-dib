@@ -1,6 +1,6 @@
 {
   "name": "grunt-dib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grunt support for dib.",
   "author": {
     "name": "Ewout Prangsma"
