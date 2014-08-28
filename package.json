@@ -1,0 +1,20 @@
+{
+  "name": "grunt-dib",
+  "version": "0.1.1",
+  "description": "Grunt support for dib.",
+  "author": {
+    "name": "Ewout Prangsma"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": ">=1.2.18"
+  },
+  "dependencies": {
+    "dib": "~0.1",
+    "grunt": ">=0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "*"
+  },
+  "bundleDependencies": []
+}
