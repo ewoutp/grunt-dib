@@ -20,5 +20,8 @@
   "devDependencies": {
     "grunt-contrib-jshint": "*"
   },
-  "bundleDependencies": []
+  "bundleDependencies": [],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
